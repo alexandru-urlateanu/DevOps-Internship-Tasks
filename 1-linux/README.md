@@ -7,3 +7,7 @@ I retrieved the _create_large_file.sh_ using the command ```wget https://raw.git
 
 I applied ```chmod +x``` to give the script execution permission and then I executed the script, which created the large_file in john's home directory.
 
+![Screenshot of user creation and script running](https://github.com/alexandru-urlateanu/DevOps-Internship-Tasks/blob/main/1-linux/create%20user%20+%20run%20file%20script.png?raw=true)
+
+I created the [bash script](1-linux/script.sh), gave execution permission and run it.
+![Screenshot of running the bash script](https://github.com/alexandru-urlateanu/DevOps-Internship-Tasks/blob/main/1-linux/script.png?raw=true)
