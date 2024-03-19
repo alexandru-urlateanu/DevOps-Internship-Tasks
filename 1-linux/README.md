@@ -9,5 +9,5 @@ I applied ```chmod +x``` to give the script execution permission and then I exec
 
 ![Screenshot of user creation and script running](https://github.com/alexandru-urlateanu/DevOps-Internship-Tasks/blob/main/1-linux/create%20user%20+%20run%20file%20script.png?raw=true)
 
-I created the [bash script](/script.sh), gave execution permission and run it.
+I created the [bash script](/1-linux/script.sh), gave execution permission and run it.
 ![Screenshot of running the bash script](https://github.com/alexandru-urlateanu/DevOps-Internship-Tasks/blob/main/1-linux/script.png?raw=true)
