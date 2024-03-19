@@ -7,3 +7,7 @@ After building the image, I ran a container with it.
 To upload my image to my DockerHub repository I used the commands:
 
 ```docker tag simpleapp alexandruurlateanu/simple-app:latest``` and ```docker push alexandruurlateanu/simple-app:latest```
+
+![Screenshot of uploading image to DockerHub](https://github.com/alexandru-urlateanu/DevOps-Internship-Tasks/blob/main/2-simpleapp/build.JPG?raw=true)
+
+
