@@ -1,4 +1,4 @@
-For this task I to work with the Python app.
+For this task I chose to work with the Python app.
 
 I built the [Dockerfile](/2-simpleapp/Dockerfile), then I used the commands ```docker build -t simpleapp .``` to build an image from this Dockerfile.
 
