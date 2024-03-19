@@ -4,10 +4,10 @@ I built the [Dockerfile](/2-simpleapp/Dockerfile), then I used the commands ```d
 
 After building the image, I ran a container with it.
 
+![Screenshot of building the Docker image](https://github.com/alexandru-urlateanu/DevOps-Internship-Tasks/blob/main/2-simpleapp/build.JPG?raw=true)
+
 To upload my image to my DockerHub repository I used the commands:
 
 ```docker tag simpleapp alexandruurlateanu/simple-app:latest``` and ```docker push alexandruurlateanu/simple-app:latest```
 
-![Screenshot of uploading image to DockerHub](https://github.com/alexandru-urlateanu/DevOps-Internship-Tasks/blob/main/2-simpleapp/build.JPG?raw=true)
-
-
+![Screenshot of uploading the image to DockerHub](https://github.com/alexandru-urlateanu/DevOps-Internship-Tasks/blob/main/2-simpleapp/push.JPG?raw=true)
