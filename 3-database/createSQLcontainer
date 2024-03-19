@@ -1,0 +1,3 @@
+Creating the container in PowerShell:
+docker pull mysql
+docker run --name company -p 3306:3306 -e MYSQL_ROOT_PASSWORD=Vabat123ROOT
