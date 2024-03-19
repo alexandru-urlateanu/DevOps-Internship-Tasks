@@ -11,3 +11,5 @@ To upload my image to my DockerHub repository I used the commands:
 ```docker tag simpleapp alexandruurlateanu/simple-app:latest``` and ```docker push alexandruurlateanu/simple-app:latest```
 
 ![Screenshot of uploading the image to DockerHub](https://github.com/alexandru-urlateanu/DevOps-Internship-Tasks/blob/main/2-simpleapp/push.JPG?raw=true)
+
+I automated the building process with GitHub actions by creating an [YAML file](/.github/workflows/docker-build-push.yml)
