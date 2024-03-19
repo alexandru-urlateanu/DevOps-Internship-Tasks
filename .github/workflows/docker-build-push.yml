@@ -38,7 +38,7 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
 
       - name: Build Docker Image
-        run: docker build -t alexandruurlateanu/simple-app .
+        run: docker build -t alexandruurlateanu/simple-app ./2-simpleapp
 
       - name: Tag Docker Image
         run: docker tag alexandruurlateanu/simple-app alexandruurlateanu/simple-app:latest
