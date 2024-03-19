@@ -11,3 +11,6 @@ I applied ```chmod +x``` to give the script execution permission and then I exec
 
 I created the [bash script](/1-linux/script.sh), gave execution permission and run it.
 ![Screenshot of running the bash script](https://github.com/alexandru-urlateanu/DevOps-Internship-Tasks/blob/main/1-linux/script.png?raw=true)
+
+The modifications the script made to the passwd file can be noticed below.
+![Screenshot of script modifications](https://github.com/alexandru-urlateanu/DevOps-Internship-Tasks/blob/main/1-linux/passwd_modified.png?raw=true)
